@@ -8,6 +8,10 @@
 
 ### 不透明フレームバッファへのアクセス
 
+
+https://github.com/user-attachments/assets/7578a804-8f8b-494f-8c3f-170a9bc2f729
+
+
 ![結果](Result0.gif)
 
 ### 深度からの位置・法線の復元
