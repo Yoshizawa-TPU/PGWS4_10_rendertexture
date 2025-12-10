@@ -7846,7 +7846,7 @@
     "m_DefaultRefNameVersion": 1,
     "m_RefNameGeneratedByDisplayName": "probebias",
     "m_DefaultReferenceName": "_probebias",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_Probe_Center_Bias",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
     "m_CustomSlotLabel": "",
