@@ -8,36 +8,35 @@
 
 ### 不透明フレームバッファへのアクセス
 
+![結果](https://github.com/user-attachments/assets/845f2bd8-d006-4879-afcf-be769e26ef45)
 
-https://github.com/user-attachments/assets/7578a804-8f8b-494f-8c3f-170a9bc2f729
-
-
-![結果](Result0.gif)
 
 ### 深度からの位置・法線の復元
 
-![結果](Result1.gif)
+![結果](https://github.com/user-attachments/assets/7a2b73ea-b429-4901-bc37-65853bc07e7f)
+
 
 ### ゲーム内モニター
 
-![結果](Result2.gif)
+![結果](https://github.com/user-attachments/assets/c7cf6898-0f3e-4276-aca0-a0027a6e3572)
+
 
 ### バックミラー
 
-![結果](Result3.gif)
+![結果](https://github.com/user-attachments/assets/102fcb54-4949-4984-b456-bd9ca434193c)
 
 ### 範囲内のオブジェクトだけ単色
 
-![結果](Result4.gif)
+![結果](https://github.com/user-attachments/assets/e900a299-f4f7-413d-8881-cc0a995b6c32)
 
 ### あなたの考えた素敵なシェーダー
 
-![結果](Result.gif)
+![結果](https://github.com/user-attachments/assets/de82c590-4c11-4db4-afd9-894a26153b81)
+
 
 - 工夫した点
-  - xxx
-  - xxx
-  - xxx
+  - ゲーム内モニターをより発展させて、車の運転をモニターで見て操作するようにしました。
+  - ゲーム内の簡単なミニゲーム的なものに使えると考えます。
 
 ## 進め方
 
